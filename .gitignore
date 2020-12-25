@@ -4,3 +4,5 @@
 */input.txt
 *.hi
 *.o
+
+node_modules

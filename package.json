@@ -1,0 +1,24 @@
+{
+  "name": "adventofcode2020-fluffgfx",
+  "version": "0.1.0",
+  "description": "advent of code 2020",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fluffgfx/adventofcode2020.git"
+  },
+  "author": "vulpino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fluffgfx/adventofcode2020/issues"
+  },
+  "homepage": "https://github.com/fluffgfx/adventofcode2020#readme",
+  "devDependencies": {
+    "@types/node": "^14.14.16",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.3"
+  }
+}
